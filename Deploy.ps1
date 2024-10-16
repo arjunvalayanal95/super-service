@@ -9,6 +9,7 @@ Write-Host "Running unit tests..."
 dotnet test $testPath
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Unit tests failed. Review and fix." -ForegroundColor Red
+    exit 1
 }
 
 # Build and package the application as a Docker image
