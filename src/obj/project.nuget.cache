@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8/RekbOJH9lGAcQOYV2VzfXPgi4LkpvtssZEwKd7r93kj6vAD5Fhee+pWXr9QSgDwUVgTUq7mUbC9y/4aBR7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arjun\\Downloads\\DevOps_interview_test\\super-service\\src\\SuperService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arjun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
