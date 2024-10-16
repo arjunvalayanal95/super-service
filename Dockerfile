@@ -21,7 +21,7 @@ WORKDIR /super-svc
 #Copying from build stage
 COPY --from=build /super-svc/publish /super-svc/
 
-#Exposing the port (https://learn.microsoft.com/en-us/dotnet/core/compatibility/containers/8.0/aspnet-port)
+#Exposing the port
 EXPOSE 80
 
 #Run the application
