@@ -1,5 +1,3 @@
-
-#$projectPath = "./super-service"
 $imageName = "super-service:latest"
 $containerName = "super-service"
 $testPath = "./test"
